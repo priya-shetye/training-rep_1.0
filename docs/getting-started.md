@@ -84,6 +84,8 @@ Adding an inline link [Adding Hyperlink](#adding-hyperlink)
 Text with list
 - Getting started Guide
     - Installation Guide
+    > [!NOTE]
+    **This is a bold note in the bulleted list**
     - Deployment Guide
 - Next level
     - Sub list 1
@@ -110,7 +112,7 @@ Text
 Keep a space of one line whenever you add a style 
 
 ## Adding annotations
-> [!NOTE] 
+> [!NOTE]
 This is a note
 
 > [!Tip]
@@ -124,6 +126,8 @@ This is a note
 
 > [!Example]
 > This is an example 
+
+Note
 
 ## Installation
 Follow the installation steps carefully.   
