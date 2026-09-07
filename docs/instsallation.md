@@ -7,7 +7,7 @@ Before installing the product, make sure you have:
 - Internet access
 - The installation package
  
-## Install the product
+## Install the product (change this to level three)
  
 1. Download the installation package.
 2. Open the downloaded file.
