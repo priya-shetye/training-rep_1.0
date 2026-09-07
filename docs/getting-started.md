@@ -186,6 +186,5 @@ Make sure you:
 2. Are connected to the correct remote repository.
 3. Have permission to push to the repository.
  
- 
 
  
