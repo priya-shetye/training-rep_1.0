@@ -21,3 +21,8 @@ This is the second paragraph. This is all good and does not need an complex chan
 
 ## Where to go from here 
 Adding a link [Getting Started](/docs/getting-started.md).
+
+### Add Image
+Check BMC before you AI  
+![image](/Images/Screenshot%202026-04-06%20210003.png)
+<img src="/Images/Screenshot 2026-04-06 210003.png" width="300" height="200"/>
