@@ -1,8 +1,7 @@
 
 
-# Topic title (Make this heading 2)
+# Getting started
 
-## Getting Started
 Welcome to our product documentation.
 
 ## Adding hyperlink
@@ -75,7 +74,6 @@ Text with list
     - Sub list 1
         - Sub-sub-list
         - Sub-sub-list
-
 ### Add Image
 Check BMC before you AI  
 ![image](/Images/Screenshot%202026-04-06%20210003.png)
