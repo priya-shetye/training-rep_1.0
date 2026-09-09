@@ -1,22 +1,5 @@
 
-- [Topic title](#topic-title)
-  - [Getting Started](#getting-started)
-  - [Adding hyperlink](#adding-hyperlink)
-  - [Adding code block](#adding-code-block)
-  - [Basic table](#basic-table)
-  - [Adding ordered lists](#adding-ordered-lists)
-  - [Adding links to files](#adding-links-to-files)
-      - [Heading 4](#heading-4)
-    - [Add Image](#add-image)
-    - [Working with images](#working-with-images)
-  - [Adding annotations](#adding-annotations)
-  - [Installation](#installation)
-  - [Task list](#task-list)
-  - [Footnote](#footnote)
-  - [Collapsable content](#collapsable-content)
-  - [Troubleshooting](#troubleshooting)
 
-Comment by Akanksha: testing review comments
 # Topic title (Make this heading 2)
 
 ## Getting Started
@@ -94,22 +77,14 @@ Text with list
         - Sub-sub-list
 
 ### Add Image
-Check BMC before you AI   
-
+Check BMC before you AI  
 ![image](/Images/Screenshot%202026-04-06%20210003.png)
-
 <img src="/Images/Screenshot 2026-04-06 210003.png" width="300" height="200"/>
-
-Check the full path for this image file
 
 **RND**____versionNumber___
 
 ***RND*versionNumber**x
 `code text`
-
-### Working with images
-Text
-Keep a space of one line whenever you add a style 
 
 ## Adding annotations
 > [!NOTE]
@@ -185,6 +160,5 @@ Make sure you:
 1. Have committed your changes.
 2. Are connected to the correct remote repository.
 3. Have permission to push to the repository.
- 
 
- 
+</details> 
